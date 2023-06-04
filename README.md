@@ -34,12 +34,12 @@
 </ul>
 
 ## UI
-<img width="70%" src="./images/final_tool"/>
+<img width="35%" style="max-width: 15cm;" src="./images/final_tool.png"/>
 
 ## Results
-<img width="70%" src="./images/us_map"/>
+<img width="70%" src="./images/us_map.png"/>
 
-<img width="70%" src="./images/alpine_map"/>
+<img width="70%" src="./images/alpine_map.png"/>
 
 ## Usage
 As of now, i'll not be showcasing how to use the Unity Tool. This repo is beign utilized as an archive for the project.<br>
