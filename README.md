@@ -31,6 +31,7 @@
     </ol>
   </li>
   <li>Farming Simulator's trees are not compatible with <b>Unity</b>. This problem was handled by creating personal prefabs of different types of trees and then substituting the corrupted trees with the new models, while paying attention to their species.</li>
+  <li>It can be used to import both <b><i>official</i></b> and <b><i>modded</i></b> maps or assets</li>
 </ul>
 
 ## UI
